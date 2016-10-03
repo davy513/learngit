@@ -1,2 +1,2 @@
 This is an empty test file.
-To test github.
+try the push command.
